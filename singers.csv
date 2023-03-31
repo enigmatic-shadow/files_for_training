@@ -1,0 +1,21 @@
+﻿SINGER_ID,NAME,COUNTRY,SONG_NAME,SONG_RELEASE_YEAR,AGE,IS_MALE
+101,Adele,UK,Rolling in the Deep,2010,33,FALSE
+102,Ed Sheeran,UK,Shape of You,2017,31,TRUE
+103,Beyoncé,USA,Crazy in Love,2003,40,FALSE
+104,Michael Jackson,USA,Billie Jean,1983,50,TRUE
+105,Freddie Mercury,UK,Bohemian Rhapsody,1975,45,TRUE
+106,Shakira,Colombia,Hips Don't Lie,2006,45,FALSE
+107,Justin Bieber,Canada,Sorry,2015,28,TRUE
+108,Mariah Carey,USA,All I Want for Christmas Is You,1994,52,FALSE
+109,Elton John,UK,Rocket Man,1972,75,TRUE
+110,Whitney Houston,USA,I Will Always Love You,1992,48,FALSE
+111,John Lennon,UK,Imagine,1971,40,TRUE
+112,Celine Dion,Canada,My Heart Will Go On,1997,53,FALSE
+113,Frank Sinatra,USA,My Way,1969,83,TRUE
+114,Adele,UK,Someone Like You,2011,33,FALSE
+115,Katy Perry,USA,Firework,2010,37,FALSE
+116,Drake,Canada,God's Plan,2018,36,TRUE
+117,Rihanna,Barbados,Umbrella,2007,34,FALSE
+118,Bruno Mars,USA,Uptown Funk,2014,36,TRUE
+119,Taylor Swift,USA,Shake It Off,2014,32,FALSE
+120,Ariana Grande,USA,7 Rings,2019,29,FALSE
